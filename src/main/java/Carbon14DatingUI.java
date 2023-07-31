@@ -12,5 +12,6 @@ class Carbon14DatingUI {
         Carbon14Dating cd = new Carbon14Dating(remainingAmount);
 
         System.out.println(cd.toString());
+        // this was pathetic, please redo your code fr- John Ko
     }
 }
